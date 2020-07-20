@@ -1,0 +1,344 @@
+[04-Oct-2019 17:47:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:48:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:48:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:48:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:48:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:48:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:48:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:48:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:49:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'aurorfra_custmr'@'localhost' (using password: YES) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:50:31 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php70/sess_3tfam9ku0fg2vth2qfc3pl1va7, O_RDWR) failed: Permission denied (13) in /home/aurorfra/public_html/TE/index.php on line 4
+[04-Oct-2019 17:50:31 UTC] PHP Warning:  Unknown: open(/var/cpanel/php/sessions/ea-php70/sess_3tfam9ku0fg2vth2qfc3pl1va7, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[04-Oct-2019 17:50:31 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php70) in Unknown on line 0
+[04-Oct-2019 17:53:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'aurorfra_root'@'localhost' (using password: NO) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:53:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'aurorfra_root'@'localhost' (using password: NO) in /home/aurorfra/public_html/TE/connect.php on line 2
+[04-Oct-2019 17:54:33 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php70/sess_3tfam9ku0fg2vth2qfc3pl1va7, O_RDWR) failed: Permission denied (13) in /home/aurorfra/public_html/TE/index.php on line 4
+[04-Oct-2019 17:54:33 UTC] PHP Warning:  Unknown: open(/var/cpanel/php/sessions/ea-php70/sess_3tfam9ku0fg2vth2qfc3pl1va7, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[04-Oct-2019 17:54:33 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php70) in Unknown on line 0
+[04-Oct-2019 18:00:36 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php70/sess_3tfam9ku0fg2vth2qfc3pl1va7, O_RDWR) failed: Permission denied (13) in /home/aurorfra/public_html/TE/index.php on line 4
+[04-Oct-2019 18:00:36 UTC] PHP Warning:  Unknown: open(/var/cpanel/php/sessions/ea-php70/sess_3tfam9ku0fg2vth2qfc3pl1va7, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[04-Oct-2019 18:00:36 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php70) in Unknown on line 0
+[04-Oct-2019 18:00:38 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php70/sess_3tfam9ku0fg2vth2qfc3pl1va7, O_RDWR) failed: Permission denied (13) in /home/aurorfra/public_html/TE/index.php on line 4
+[04-Oct-2019 18:00:38 UTC] PHP Warning:  Unknown: open(/var/cpanel/php/sessions/ea-php70/sess_3tfam9ku0fg2vth2qfc3pl1va7, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[04-Oct-2019 18:00:38 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php70) in Unknown on line 0
+[04-Oct-2019 18:01:08 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php70/sess_3tfam9ku0fg2vth2qfc3pl1va7, O_RDWR) failed: Permission denied (13) in /home/aurorfra/public_html/TE/index.php on line 4
+[04-Oct-2019 18:01:08 UTC] PHP Warning:  Unknown: open(/var/cpanel/php/sessions/ea-php70/sess_3tfam9ku0fg2vth2qfc3pl1va7, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[04-Oct-2019 18:01:08 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php70) in Unknown on line 0
+[04-Oct-2019 18:54:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/login.php on line 19
+[04-Oct-2019 18:54:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/login.php on line 20
+[04-Oct-2019 18:54:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/login.php on line 36
+[04-Oct-2019 18:54:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/login.php on line 37
+[04-Oct-2019 19:13:30 UTC] PHP Warning:  include(../mainheader.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:13:30 UTC] PHP Warning:  include(): Failed opening '../mainheader.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:13:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/MartinGarrix.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/MartinGarrix.php on line 43
+[04-Oct-2019 19:14:46 UTC] PHP Warning:  include(../mainheader.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:14:46 UTC] PHP Warning:  include(): Failed opening '../mainheader.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:14:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/MartinGarrix.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/MartinGarrix.php on line 43
+[04-Oct-2019 19:14:51 UTC] PHP Warning:  include(../mainheader.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:14:51 UTC] PHP Warning:  include(): Failed opening '../mainheader.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:14:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/MartinGarrix.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/MartinGarrix.php on line 43
+[04-Oct-2019 19:14:57 UTC] PHP Warning:  include(../mainheader.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:14:57 UTC] PHP Warning:  include(): Failed opening '../mainheader.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:14:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/MartinGarrix.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/MartinGarrix.php on line 43
+[04-Oct-2019 19:17:03 UTC] PHP Warning:  include(../mainheader.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:17:03 UTC] PHP Warning:  include(): Failed opening '../mainheader.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:17:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/MartinGarrix.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/MartinGarrix.php on line 43
+[04-Oct-2019 19:17:10 UTC] PHP Warning:  include(../mainheader.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:17:10 UTC] PHP Warning:  include(): Failed opening '../mainheader.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/MartinGarrix.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/MartinGarrix.php on line 43
+[04-Oct-2019 19:17:14 UTC] PHP Warning:  include(../mainheader.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:17:14 UTC] PHP Warning:  include(): Failed opening '../mainheader.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/MartinGarrix.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/MartinGarrix.php on line 43
+[04-Oct-2019 19:17:45 UTC] PHP Warning:  include(../mainheader.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:17:45 UTC] PHP Warning:  include(): Failed opening '../mainheader.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:17:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/MartinGarrix.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/MartinGarrix.php on line 43
+[04-Oct-2019 19:17:49 UTC] PHP Warning:  include(../mainheader.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:17:49 UTC] PHP Warning:  include(): Failed opening '../mainheader.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/MartinGarrix.php on line 24
+[04-Oct-2019 19:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/MartinGarrix.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/MartinGarrix.php on line 43
+[04-Oct-2019 19:18:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:18:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:18:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:18:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:19:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:19:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:19:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:19:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:21:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:21:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:21:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:21:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:21:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:21:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:22:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:22:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:22:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:23:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:28:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:28:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:28:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:28:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:34:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:34:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:34:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:34:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:34:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:34:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:34:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:34:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:36:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 19:36:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/MartinGarrix.php on line 44
+[04-Oct-2019 20:42:32 UTC] PHP Parse error:  syntax error, unexpected 'Date' (T_STRING), expecting ',' or ';' in /home/aurorfra/public_html/TE/MartinGarrix.php on line 60
+[05-Oct-2019 19:14:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/aurorfra/public_html/TE/view_product.php on line 145
+[05-Oct-2019 21:50:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aurorfra/public_html/TE/login.php on line 143
+[05-Oct-2019 22:00:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/login.php on line 19
+[05-Oct-2019 22:00:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/login.php on line 20
+[05-Oct-2019 22:00:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/login.php on line 19
+[05-Oct-2019 22:00:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/login.php on line 20
+[05-Oct-2019 23:01:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/signin.php on line 72
+[07-Oct-2019 16:56:51 UTC] PHP Parse error:  syntax error, unexpected '$quan' (T_VARIABLE) in /home/aurorfra/public_html/TE/orderform.php on line 51
+[07-Oct-2019 17:13:19 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/aurorfra/public_html/TE/orderform.php on line 99
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 1
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 1
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/profile.php:1) in /home/aurorfra/public_html/TE/profile.php on line 5
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 11
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/profile.php on line 12
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 22
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/profile.php:1) in /home/aurorfra/public_html/TE/profile.php on line 24
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 124
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 124
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 126
+[07-Oct-2019 18:33:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/profile.php on line 127
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 1
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 1
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/profile.php:1) in /home/aurorfra/public_html/TE/profile.php on line 5
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 11
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/profile.php on line 12
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 22
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/profile.php:1) in /home/aurorfra/public_html/TE/profile.php on line 24
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 146
+[07-Oct-2019 18:34:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 1
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 1
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/profile.php:1) in /home/aurorfra/public_html/TE/profile.php on line 5
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 11
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/profile.php on line 12
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 22
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/profile.php:1) in /home/aurorfra/public_html/TE/profile.php on line 24
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 146
+[07-Oct-2019 18:36:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 19:15:29 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 1
+[07-Oct-2019 19:15:29 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 1
+[07-Oct-2019 19:15:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/profile.php:1) in /home/aurorfra/public_html/TE/profile.php on line 5
+[07-Oct-2019 19:15:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/profile.php:1) in /home/aurorfra/public_html/TE/profile.php on line 7
+[07-Oct-2019 19:15:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 22
+[07-Oct-2019 19:15:29 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 19:15:29 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 19:15:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/profile.php on line 146
+[07-Oct-2019 19:15:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 19:15:37 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:15:37 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:15:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 6
+[07-Oct-2019 19:15:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 11
+[07-Oct-2019 19:15:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 14
+[07-Oct-2019 19:15:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:15:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/orderform.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:17:09 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:17:09 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:17:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 6
+[07-Oct-2019 19:17:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 11
+[07-Oct-2019 19:17:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 14
+[07-Oct-2019 19:17:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:17:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/orderform.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:17:11 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:17:11 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:17:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 6
+[07-Oct-2019 19:17:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 11
+[07-Oct-2019 19:17:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 14
+[07-Oct-2019 19:17:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/orderform.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:17:40 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:17:40 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:17:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 6
+[07-Oct-2019 19:17:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 11
+[07-Oct-2019 19:17:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 14
+[07-Oct-2019 19:17:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:17:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/orderform.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:17:44 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:17:44 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:17:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 6
+[07-Oct-2019 19:17:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 11
+[07-Oct-2019 19:17:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 14
+[07-Oct-2019 19:17:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:17:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/orderform.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:18:16 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:18:16 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 19:18:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 6
+[07-Oct-2019 19:18:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 11
+[07-Oct-2019 19:18:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 14
+[07-Oct-2019 19:18:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:18:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/orderform.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 19:25:57 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 19:25:57 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 19:25:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 21:13:49 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 21:13:49 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 21:13:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 21:13:57 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 21:13:57 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 21:13:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 21:14:06 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 21:14:06 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 21:14:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 21:33:07 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 21:33:07 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 21:33:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 21:33:12 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 21:33:12 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 21:33:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 22:26:49 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 22:26:49 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/orderform.php on line 1
+[07-Oct-2019 22:26:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 6
+[07-Oct-2019 22:26:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/orderform.php:1) in /home/aurorfra/public_html/TE/orderform.php on line 11
+[07-Oct-2019 22:26:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 18
+[07-Oct-2019 22:26:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/orderform.php on line 19
+[07-Oct-2019 22:26:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 22:26:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/aurorfra/public_html/TE/orderform.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/aurorfra/public_html/TE/orderform.php on line 28
+[07-Oct-2019 22:27:48 UTC] PHP Warning:  include(connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 22:27:48 UTC] PHP Warning:  include(): Failed opening 'connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/profile.php on line 144
+[07-Oct-2019 22:27:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 22:30:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 147
+[07-Oct-2019 22:31:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 159
+[07-Oct-2019 22:31:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 159
+[07-Oct-2019 22:32:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 159
+[07-Oct-2019 22:32:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 159
+[07-Oct-2019 22:33:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 159
+[07-Oct-2019 22:33:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 159
+[07-Oct-2019 22:35:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 159
+[07-Oct-2019 22:35:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/aurorfra/public_html/TE/profile.php on line 159
+[07-Oct-2019 22:48:38 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/aurorfra/public_html/TE/profile.php on line 173
+[07-Oct-2019 23:24:29 UTC] PHP Warning:  include(inc/connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:24:29 UTC] PHP Warning:  include(): Failed opening 'inc/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:24:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 5
+[07-Oct-2019 23:24:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 11
+[07-Oct-2019 23:24:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/settings.php on line 12
+[07-Oct-2019 23:24:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 23
+[07-Oct-2019 23:24:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 25
+[07-Oct-2019 23:24:56 UTC] PHP Warning:  include(inc/connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:24:56 UTC] PHP Warning:  include(): Failed opening 'inc/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:24:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 5
+[07-Oct-2019 23:24:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 11
+[07-Oct-2019 23:24:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/settings.php on line 12
+[07-Oct-2019 23:24:56 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 23
+[07-Oct-2019 23:24:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 25
+[07-Oct-2019 23:24:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 76
+[07-Oct-2019 23:25:21 UTC] PHP Warning:  include(inc/connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:25:21 UTC] PHP Warning:  include(): Failed opening 'inc/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:25:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 5
+[07-Oct-2019 23:25:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 11
+[07-Oct-2019 23:25:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/settings.php on line 12
+[07-Oct-2019 23:25:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 23
+[07-Oct-2019 23:25:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 25
+[07-Oct-2019 23:25:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 76
+[07-Oct-2019 23:31:14 UTC] PHP Warning:  include(inc/connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:31:14 UTC] PHP Warning:  include(): Failed opening 'inc/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:31:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 5
+[07-Oct-2019 23:31:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 11
+[07-Oct-2019 23:31:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/settings.php on line 12
+[07-Oct-2019 23:31:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 23
+[07-Oct-2019 23:31:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 25
+[07-Oct-2019 23:31:29 UTC] PHP Warning:  include(inc/connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:31:29 UTC] PHP Warning:  include(): Failed opening 'inc/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:31:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 5
+[07-Oct-2019 23:31:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 11
+[07-Oct-2019 23:31:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/settings.php on line 12
+[07-Oct-2019 23:31:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 23
+[07-Oct-2019 23:31:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 25
+[07-Oct-2019 23:31:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 76
+[07-Oct-2019 23:31:44 UTC] PHP Warning:  include(inc/connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:31:44 UTC] PHP Warning:  include(): Failed opening 'inc/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:31:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 5
+[07-Oct-2019 23:31:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 11
+[07-Oct-2019 23:31:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/settings.php on line 12
+[07-Oct-2019 23:31:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 23
+[07-Oct-2019 23:31:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 25
+[07-Oct-2019 23:31:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 76
+[07-Oct-2019 23:35:42 UTC] PHP Warning:  include(inc/connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:35:42 UTC] PHP Warning:  include(): Failed opening 'inc/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:35:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 5
+[07-Oct-2019 23:35:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 11
+[07-Oct-2019 23:35:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/settings.php on line 12
+[07-Oct-2019 23:35:42 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 23
+[07-Oct-2019 23:35:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 25
+[07-Oct-2019 23:35:48 UTC] PHP Warning:  include(inc/connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:35:48 UTC] PHP Warning:  include(): Failed opening 'inc/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:35:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 5
+[07-Oct-2019 23:35:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 11
+[07-Oct-2019 23:35:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/settings.php on line 12
+[07-Oct-2019 23:35:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 23
+[07-Oct-2019 23:35:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 25
+[07-Oct-2019 23:41:30 UTC] PHP Warning:  include(inc/connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:41:30 UTC] PHP Warning:  include(): Failed opening 'inc/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:41:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 5
+[07-Oct-2019 23:41:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 11
+[07-Oct-2019 23:41:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/settings.php on line 12
+[07-Oct-2019 23:41:30 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 23
+[07-Oct-2019 23:41:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 25
+[07-Oct-2019 23:41:34 UTC] PHP Warning:  include(inc/connect.inc.php): failed to open stream: No such file or directory in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:41:34 UTC] PHP Warning:  include(): Failed opening 'inc/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/aurorfra/public_html/TE/settings.php on line 1
+[07-Oct-2019 23:41:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 5
+[07-Oct-2019 23:41:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 11
+[07-Oct-2019 23:41:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurorfra/public_html/TE/settings.php on line 12
+[07-Oct-2019 23:41:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aurorfra/public_html/TE/settings.php on line 23
+[07-Oct-2019 23:41:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurorfra/public_html/TE/settings.php:1) in /home/aurorfra/public_html/TE/settings.php on line 25

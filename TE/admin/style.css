@@ -1,0 +1,406 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+h3 {
+  font-size: 25px;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: normal;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body, button, input, label, select, td, textarea {
+    font-family: Arial, Helvetica, tahoma,verdana,arial,sans-serif;
+    font-size: 12px;
+}
+body{
+    width: 100%;
+    position: relative;
+    background-color: #000000;
+    min-width: 1080px;
+}
+.homepageheader {
+  position: fixed;
+  height: 82px;
+  width: 100%;
+  min-width: 980px;
+  border-bottom: 1px solid #A92A2A;
+  margin:  0px;
+  background-image: initial;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: rgb(0, 0, 0);
+}
+.loginButton .signinButton {
+	color: #ffffff;
+    background: #A92A2A;
+    border: 1px solid #A92A2A;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 15px;
+    padding: 12px 24px;
+	border-radius: 16px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    margin: 20px 0px 0px 10px;
+    font-size: 17px;
+}
+
+.pquantys {
+  margin: 0px;
+  padding: 9px 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:20px;
+  border:1px solid #A92A2A; border-right:0px;
+  border-top-left-radius: 5px 5px;
+  border-bottom-left-radius: 5px 5px;
+}
+.buybutton {
+  margin: 0;
+  padding: 9px 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:20px;
+  outline: none;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  border: solid 1px #A92A2A; border-right:0px;
+  background: #A92A2A;
+  border-top-right-radius: 5px 5px;
+  border-bottom-right-radius: 5px 5px;
+}
+.buybutton:hover {
+  text-decoration: none;
+  background: #A92A2A;
+}
+
+.home-welcome {
+	margin-top: 0px;
+}
+.home-welcome-text {
+
+	height: 800px;
+}
+.home-welcome-text h1 {
+ 	text-align: center;
+ 	font-size: 85px;
+ 	padding-top: 150px;
+ 	font-weight: bold;
+  color: #FFFFFF;
+ 	/*color: #000000; */
+ }
+ .home-welcome-text h2 {
+ 	text-align: center;
+ 	font-weight: bold;
+  color: #FFFFFF;
+ 	/*color: #000000; */
+  font-size: 30px;
+ }
+ .home-footer {
+ 	text-align: center;
+	color: #ffffff;
+	background-color: #A92A2A;
+	font-size: 18px;
+	padding: 20px 10px;
+ }
+
+.signupform_content h2 {
+  margin: 0px 0 0 0;
+  padding: 0px 0px 20px 0px;
+  font-size: 40px;
+  color: #A92A2A;
+  font-weight: bold;
+  text-align: center;
+}
+.signupform_text {
+  font-size: 18px;
+  padding: 0;
+  font-weight: bold;
+  color: #A92A2A;
+  font-style: normal;
+}
+.signup_form {
+  background-image: initial;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  padding: 22px 53px 0 53px;
+  color: #A92A2A;
+  border-radius: 4px;
+  font-style: italic;
+}
+
+.signupbox {
+  font-size: 20px;
+  font-style: italic;
+  margin-bottom: 3px;
+  margin-top: 0px;
+  padding: 14px;
+  line-height: 25px;
+  border-radius: 4px;
+  border: 1px solid #A92A2A;
+  color: #A92A2A;
+  margin-left: 0;
+  width: 270px;
+  height: 20px;
+  background-color: transparent;
+}
+
+.signupbutton {
+    background-color: transparent;
+    border: 2px solid #A92A2A;
+    border-radius: 6px;
+    margin: 10px 0px;
+}
+.uisignupbutton {
+    color: #A92A2A;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 13px;
+    padding: 14px 0;
+    width: 300px;
+    text-align: center;
+    text-decoration: none;
+    border-width: 2px;
+    border: 1px solid #A92A2A;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1)
+}
+.uisignupbutton:hover {
+  background-color: #A92A2A;
+}
+
+.signup_error_msg {
+  font-weight: bold;
+  color: #A92A2A;
+  padding: 0px 10px 15px 10px;
+  text-align: center;
+  font-size: 16px;
+}
+.succReg {
+    padding: 20px;
+    margin: 150px auto;
+    line-height: 1.5;
+    width: 930px;
+}
+.succReg p {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #A92A2A;
+  text-align: center;
+}
+.succReg h1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #A92A2A;
+  text-align: center;
+}
+
+.pass_body2 {
+    width: 560px;
+    margin: 30px auto;
+}
+.pass_body2 p {
+    padding: 5px 8px;
+    font-size: 20px;
+    color: #A92A2A;
+    font-weight: bold;
+}
+
+.error_echo {
+  color: red;
+  text-align: center;
+  padding: 15px;
+  width: 868px;
+  margin: 0 auto;
+  font-weight: bold;
+  border-radius: 4px;
+  font-size: 17px;
+  background-color: #A92A2A;
+  border-bottom: 2px solid #A92A2A;
+  border-top: 1px solid #A92A2A;
+  border-left: 1px solid #A92A2A;
+  border-right: 1px solid #A92A2A;
+}
+.succes_echo {
+  color: #A92A2A;
+  text-align: center;
+  padding: 17px;
+  margin: 0 auto;
+  width: 866px;
+  font-weight: bold;
+  font-size: 17px;
+  background-color: rgba(247, 247, 69, 0.36);
+  border-bottom: 1px solid #A92A2A;
+}
+.submRecov {
+    color: #A92A2A;
+    padding: 7px;
+    border-radius: 2px;
+    border: 2px solid #A92A2A;
+}
+.forgetpass {
+	text-decoration: none;
+	color: #A92A2A
+} /*
+.forgetpass:hover {
+  color: red;
+} */
+
+.home-prodlist h3 {
+  text-align: center;
+  margin: 20px 10px;
+  font-size: 25px;
+}
+.home-prodlist-img img div {
+    font-size: 20px;
+} /*
+.home-prodlist-img:hover {
+    background-color: #9a3489;
+    border-radius: 8px;
+    color: #fff;
+} */
+.home-prodlist-imgi {
+    height: 350px;
+    width: 300px;
+    padding: 2px;
+    border: 1px solid #A92A2A;
+    border-radius: 8px;
+}
+.categolis  {
+    line-height: 1.3;
+    font-weight: bold;
+    color: #fff;
+    padding: 110px 20px 20px 145px;
+    background-color: #A92A2A;
+    text-align: center;
+    font-size: 25px;
+}
+.categolis table tbody tr th {
+  padding: 0px 6px 0px 0px;
+}
+
+.rightsidemenu {
+    float: right;
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+    background-color: #A92A2A;
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+    height: 537px;
+    overflow: auto;
+}
+.rightsidemenu th {
+  margin-top: 5px;
+  border: 2px solid;
+  padding: 7px 2px;
+  width: 10px;
+}
+
+.settingsleftcontent {
+    width: 300px;
+    color: #A92A2A;
+    line-height: 1.2;
+    padding: 0;
+    text-align: justify;
+    background-color: #FFFFFF;
+    -webkit-box-shadow: 0 2px 1px 0 #A92A2A;
+    box-shadow: 0 2px 1px 0 #A92A2A;
+    border-radius: 4px;
+}
+.settingsleftcontent h2 {
+  text-align: left;
+  font-size: 16px;
+  color: #A92A2A;
+}
+.settingsleftcontent ul {
+  list-style: none;
+}
+.settingsleftcontent ul li {
+  list-style: none;
+  border-bottom: 1px solid #A92A2A;
+  text-align: center;
+}
+.settingsleftcontent ul li a {
+    clear: both;
+    cursor: pointer;
+    display: block;
+    font-size: 15px;
+    font-weight: normal;
+    float: none;
+    line-height: 18px;
+    margin: 0;
+    padding: 10px 20px;
+    text-shadow: none;
+    white-space: nowrap;
+    color: #A92A2A;
+    text-decoration: none;
+    text-align: center;
+}
+.settingsleftcontent ul li:hover {
+  background-color: #A92A2A;
+  color: #A92A2A;
+  border-radius: 4px;
+}
+
+.settingsleftcontent ul li a:hover {
+  color: #A92A2A;
+}
